@@ -87,7 +87,7 @@ export const portfolioData = {
       ],
       github: "https://github.com/bhaskarmatsagar/Rrdrob_hackathon_project",
       live: "https://rrdrobhackathonproject-mpdo6vfggdbmsg6edgfphb.streamlit.app/",
-      image: "/sources/project5.jpg"
+      image: "/sources/project5.png"
     },
     {
       title: "Clinical Trials Data Analysis",
