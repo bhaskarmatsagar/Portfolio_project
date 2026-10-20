@@ -76,6 +76,20 @@ export const portfolioData = {
       image: "/sources/project1.jpg"
     },
     {
+      title: "AI Candidate Discovery Platform ",
+      description: "Developed a Python-based candidate-ranking pipeline using weighted scoring criteria to identify the top 100 candidates from a large dataset. Built a Streamlit dashboard for candidate comparison, ranking analytics, and recruiter-focused insights.",
+      techStack: [
+        "Python",
+        "Tensorflow",
+        "NLTK",
+        "Data Cleaning",
+        "Model Deployment"
+      ],
+      github: "https://github.com/bhaskarmatsagar/Rrdrob_hackathon_project",
+      live: "https://rrdrobhackathonproject-mpdo6vfggdbmsg6edgfphb.streamlit.app/",
+      image: "/sources/project5.jpg"
+    },
+    {
       title: "Clinical Trials Data Analysis",
       description: "Developed an AI-ML project to analyze and predict outcomes from clinical trials data.",
       techStack: [
